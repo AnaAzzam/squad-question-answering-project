@@ -3,13 +3,6 @@
 ## Project Title
 **Building a Question Answering (QA) System using Hugging Face Transformers and the SQuAD Dataset**
 
-## Student Information
-- Name: [Your Name]
-- University: [Your University Name]
-- Course: [Course Name]
-- Date: May 2025
-
----
 
 ## 1. Project Objective
 
